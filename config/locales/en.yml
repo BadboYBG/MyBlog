@@ -1,6 +1,8 @@
 
 en:
   myBlog: "MyBlog"
+  login: "Log in"
+  signup: "Sign up"
 
   static_pages:
     home:
